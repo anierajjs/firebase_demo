@@ -1,0 +1,36 @@
+C:\Users\aniera joy salaysay\source\repos\firebaseDemo\firebaseDemo\bin\Debug\firebaseDemo.exe.config
+C:\Users\aniera joy salaysay\source\repos\firebaseDemo\firebaseDemo\bin\Debug\firebaseDemo.exe
+C:\Users\aniera joy salaysay\source\repos\firebaseDemo\firebaseDemo\bin\Debug\firebaseDemo.pdb
+C:\Users\aniera joy salaysay\source\repos\firebaseDemo\firebaseDemo\bin\Debug\FireSharp.dll
+C:\Users\aniera joy salaysay\source\repos\firebaseDemo\firebaseDemo\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\aniera joy salaysay\source\repos\firebaseDemo\firebaseDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aniera joy salaysay\source\repos\firebaseDemo\firebaseDemo\bin\Debug\RestSharp.dll
+C:\Users\aniera joy salaysay\source\repos\firebaseDemo\firebaseDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aniera joy salaysay\source\repos\firebaseDemo\firebaseDemo\bin\Debug\RestSharp.xml
+C:\Users\aniera joy salaysay\source\repos\firebaseDemo\firebaseDemo\obj\Debug\firebaseDemo.csproj.AssemblyReference.cache
+C:\Users\aniera joy salaysay\source\repos\firebaseDemo\firebaseDemo\obj\Debug\firebaseDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\aniera joy salaysay\source\repos\firebaseDemo\firebaseDemo\obj\Debug\firebaseDemo.Form1.resources
+C:\Users\aniera joy salaysay\source\repos\firebaseDemo\firebaseDemo\obj\Debug\firebaseDemo.Properties.Resources.resources
+C:\Users\aniera joy salaysay\source\repos\firebaseDemo\firebaseDemo\obj\Debug\firebaseDemo.csproj.GenerateResource.cache
+C:\Users\aniera joy salaysay\source\repos\firebaseDemo\firebaseDemo\obj\Debug\firebaseDemo.csproj.CoreCompileInputs.cache
+C:\Users\aniera joy salaysay\source\repos\firebaseDemo\firebaseDemo\obj\Debug\firebaseDemo.csproj.CopyComplete
+C:\Users\aniera joy salaysay\source\repos\firebaseDemo\firebaseDemo\obj\Debug\firebaseDemo.exe
+C:\Users\aniera joy salaysay\source\repos\firebaseDemo\firebaseDemo\obj\Debug\firebaseDemo.pdb
+D:\ANIERA\MY DOCUMENTS\OTHERS\SYSTEM\firebaseDemo\firebaseDemo\bin\Debug\firebaseDemo.exe.config
+D:\ANIERA\MY DOCUMENTS\OTHERS\SYSTEM\firebaseDemo\firebaseDemo\bin\Debug\firebaseDemo.exe
+D:\ANIERA\MY DOCUMENTS\OTHERS\SYSTEM\firebaseDemo\firebaseDemo\bin\Debug\firebaseDemo.pdb
+D:\ANIERA\MY DOCUMENTS\OTHERS\SYSTEM\firebaseDemo\firebaseDemo\bin\Debug\FireSharp.dll
+D:\ANIERA\MY DOCUMENTS\OTHERS\SYSTEM\firebaseDemo\firebaseDemo\bin\Debug\FireSharp.Serialization.JsonNet.dll
+D:\ANIERA\MY DOCUMENTS\OTHERS\SYSTEM\firebaseDemo\firebaseDemo\bin\Debug\Newtonsoft.Json.dll
+D:\ANIERA\MY DOCUMENTS\OTHERS\SYSTEM\firebaseDemo\firebaseDemo\bin\Debug\RestSharp.dll
+D:\ANIERA\MY DOCUMENTS\OTHERS\SYSTEM\firebaseDemo\firebaseDemo\bin\Debug\Newtonsoft.Json.xml
+D:\ANIERA\MY DOCUMENTS\OTHERS\SYSTEM\firebaseDemo\firebaseDemo\bin\Debug\RestSharp.xml
+D:\ANIERA\MY DOCUMENTS\OTHERS\SYSTEM\firebaseDemo\firebaseDemo\obj\Debug\firebaseDemo.csproj.AssemblyReference.cache
+D:\ANIERA\MY DOCUMENTS\OTHERS\SYSTEM\firebaseDemo\firebaseDemo\obj\Debug\firebaseDemo.csproj.SuggestedBindingRedirects.cache
+D:\ANIERA\MY DOCUMENTS\OTHERS\SYSTEM\firebaseDemo\firebaseDemo\obj\Debug\firebaseDemo.Form1.resources
+D:\ANIERA\MY DOCUMENTS\OTHERS\SYSTEM\firebaseDemo\firebaseDemo\obj\Debug\firebaseDemo.Properties.Resources.resources
+D:\ANIERA\MY DOCUMENTS\OTHERS\SYSTEM\firebaseDemo\firebaseDemo\obj\Debug\firebaseDemo.csproj.GenerateResource.cache
+D:\ANIERA\MY DOCUMENTS\OTHERS\SYSTEM\firebaseDemo\firebaseDemo\obj\Debug\firebaseDemo.csproj.CoreCompileInputs.cache
+D:\ANIERA\MY DOCUMENTS\OTHERS\SYSTEM\firebaseDemo\firebaseDemo\obj\Debug\firebaseDemo.csproj.CopyComplete
+D:\ANIERA\MY DOCUMENTS\OTHERS\SYSTEM\firebaseDemo\firebaseDemo\obj\Debug\firebaseDemo.exe
+D:\ANIERA\MY DOCUMENTS\OTHERS\SYSTEM\firebaseDemo\firebaseDemo\obj\Debug\firebaseDemo.pdb
